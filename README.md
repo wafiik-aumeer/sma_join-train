@@ -1,4 +1,5 @@
 ##Le package sma_join-train permet de simulter l'action d'un turtleBot3 qui en croisant le chemin d'un fil de robot, les rejoint dans le fil.
+
 #Pour executer la simulation lancer les commandes suivantes:
 
 cd catkin_ws/src
